@@ -258,14 +258,14 @@ header .menu {
 
 footer {
   background-color: #122A57;
-  min-height: 30px;
+  min-height: 40px;
   display: flex;
   align-items: center;
 }
 
 footer .footer {
   justify-content: space-between;
-  font-size: 14px;
+  font-size: 16px;
   color: #FFF;
 }
 
